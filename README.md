@@ -3,7 +3,7 @@
 A high-end, modern landing page built for a **Digital Design & Development Studio**. This project focuses on minimalist aesthetics, premium typography, and smooth, intentional animations to showcase a vision of "invisible" design where form and function live in perfect harmony.
 
 ## 🚀 Live Demo
-[Add your Vercel Link Here]
+[https://my-landing-page-teal-omega.vercel.app](https://my-landing-page-teal-omega.vercel.app)
 
 ## 🛠️ Tech Stack
 
